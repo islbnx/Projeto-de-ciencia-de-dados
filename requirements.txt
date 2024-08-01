@@ -1,0 +1,10 @@
+scikit-learn==1.2.1
+streamlit==1.17.0
+pandas==1.5.3
+numpy==1.23.5
+altair<5
+matplotlib==3.6.2
+seaborn==0.12.1
+imbalanced-learn==0.9.1
+joblib==1.1.1
+backcall==0.2.0
